@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./terzo-componenete.component.css']
 })
 export class TerzoComponeneteComponent {
-
+  stringa ="terzo"
 }

@@ -1,3 +1,7 @@
-<p>ciao sono l' <span style="color: red">app</span> component
+<p>ciao sono l' <span style="color: red">{{stringa}}</span> component
 <app-secondo-componente></app-secondo-componente>
 <app-terzo-componenete></app-terzo-componenete>
+<tr *ngFor="let cantante of CANTANTI; let i = index">
+    <td>{{cantante.name}}</td>
+    <td>{{i}}</td>
+  </tr>
