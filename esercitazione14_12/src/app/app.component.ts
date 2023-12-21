@@ -9,10 +9,10 @@ export class AppComponent {
   title = 'esercitazione14_12';
   stringa ="app"
   CANTANTI = [
-    {id: 1, name:'Superman'},
-    {id: 2, name:'Batman'},
-    {id: 5, name:'BatGirl'},
-    {id: 3, name:'Robin'},
-    {id: 4, name:'Flash'}
+    {id: 1, name:'pausini'},
+    {id: 2, name:'giovanotti'},
+    {id: 5, name:'amoroso'},
+    {id: 3, name:'lazza'},
+    {id: 4, name:'sfera'}
   ];
 }
