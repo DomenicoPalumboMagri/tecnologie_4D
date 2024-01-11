@@ -8,10 +8,10 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'compito';
   CANTANTI = [
-    {id: 1, name:'Superman'},
-    {id: 2, name:'Batman'},
-    {id: 5, name:'BatGirl'},
-    {id: 3, name:'Robin'},
-    {id: 4, name:'Flash'}
+    {id: 1, name:'Lazza'},
+    {id: 2, name:'Tedua'},
+    {id: 5, name:'Gemitaiz'},
+    {id: 3, name:'Capo Plazza'},
+    {id: 4, name:'Nait'}
   ];
 }
